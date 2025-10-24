@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palakdeep-Singh
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...DSA in C++
+- 🌱 ML Engineer , fun with ML Algorithms
 - 😄 Pronouns: ...he/him
 <!---
 Palakdeep-Singh/Palakdeep-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
